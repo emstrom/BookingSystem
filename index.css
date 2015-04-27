@@ -1,3 +1,7 @@
-p{
-
+table, th ,td {
+	border: 1px solid black;
+	background: white;
 }
+td {
+height: 40px;
+width: 100px;}
