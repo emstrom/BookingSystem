@@ -1,7 +1,27 @@
 table, th ,td {
-	border: 1px solid black;
+	border: 1px white;
 	background: white;
 }
+
 td {
 height: 40px;
 width: 100px;}
+
+.expired {
+background: grey;
+}
+
+.free{
+background: green;
+}
+
+.booked{
+background: red;
+}
+
+.confirm {
+background: yellow;
+}
+
+h1{
+text-align: center;}
