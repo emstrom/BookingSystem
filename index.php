@@ -1,3 +1,4 @@
+<?php include 'functions.php';?>
 <!DOCTYPE html>
 <meta charset="UTF-8" />
 	<head>
@@ -7,7 +8,7 @@
 	<h1>Boka grupprum KTH Kista</h1>	
 	
 	<body>
-	
+		<?php echo H();?>
 		<table>
 			<tr>
 				<th>Rum</th>
